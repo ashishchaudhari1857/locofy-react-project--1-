@@ -1,0 +1,189 @@
+.contactUs,
+.getInTouch {
+  position: absolute;
+  top: 5.19%;
+  left: 37.58%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.getInTouch {
+  top: 0;
+  left: 41.46%;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-nunito-sans);
+  color: var(--color-darkgray);
+}
+.groupChild,
+.groupInner,
+.groupItem,
+.rectangleIcon {
+  position: absolute;
+  height: 10.48%;
+  width: 47.91%;
+  top: 21.43%;
+  right: 52.09%;
+  bottom: 68.09%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupInner,
+.groupItem,
+.rectangleIcon {
+  width: 100%;
+  top: 37.8%;
+  right: 0;
+  bottom: 51.72%;
+}
+.groupInner,
+.rectangleIcon {
+  height: 29.37%;
+  top: 53.95%;
+  bottom: 16.68%;
+}
+.rectangleIcon {
+  height: 10.48%;
+  width: 47.91%;
+  top: 21.43%;
+  bottom: 68.09%;
+  left: 52.09%;
+}
+.groupIcon,
+.name {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupIcon {
+  height: 34.86%;
+  width: 11.24%;
+  top: 29.97%;
+  right: 0;
+  bottom: 35.17%;
+  left: 88.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupChild1,
+.nameParent {
+  position: absolute;
+  height: 3.28%;
+  width: 6.82%;
+  top: 24.76%;
+  right: 90.52%;
+  bottom: 71.96%;
+  left: 2.66%;
+}
+.groupChild1 {
+  height: 34.83%;
+  width: 11.66%;
+  top: 23.37%;
+  right: 0;
+  bottom: 41.79%;
+  left: 88.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.emailParent,
+.groupChild2 {
+  position: absolute;
+  height: 3.28%;
+  width: 6.57%;
+  top: 24.76%;
+  right: 38.67%;
+  bottom: 71.96%;
+  left: 54.76%;
+}
+.groupChild2 {
+  height: 34.83%;
+  width: 9.2%;
+  top: 28.73%;
+  right: 0;
+  bottom: 36.44%;
+  left: 90.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupChild3,
+.subjectParent {
+  position: absolute;
+  height: 3.28%;
+  width: 8.34%;
+  top: 41.14%;
+  right: 89%;
+  bottom: 55.59%;
+  left: 2.66%;
+}
+.groupChild3 {
+  height: 34.84%;
+  width: 5.29%;
+  top: 40.09%;
+  right: 0;
+  bottom: 25.07%;
+  left: 94.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupChild4,
+.yourMessageParent {
+  position: absolute;
+  height: 3.28%;
+  width: 14.5%;
+  top: 57.26%;
+  right: 82.84%;
+  bottom: 39.46%;
+  left: 2.66%;
+}
+.groupChild4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.submit {
+  position: absolute;
+  top: 32.33%;
+  left: 36.45%;
+  transform: rotate(-0.31deg);
+  transform-origin: 0 0;
+}
+.contactUsParent,
+.vectorParent {
+  position: absolute;
+  height: 10.7%;
+  width: 26.86%;
+  top: 89.3%;
+  right: 36.57%;
+  bottom: 0;
+  left: 36.57%;
+  color: var(--color-white);
+  font-family: var(--font-nunito-sans);
+}
+.contactUsParent {
+  height: 6.71%;
+  width: 50.69%;
+  top: 85.68%;
+  right: 24.65%;
+  bottom: 7.61%;
+  left: 24.65%;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-rosybrown);
+  font-family: var(--font-montserrat);
+}

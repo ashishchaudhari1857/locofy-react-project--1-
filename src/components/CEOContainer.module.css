@@ -1,0 +1,77 @@
+.groupChild,
+.groupItem {
+  position: absolute;
+  height: 14.22%;
+  width: 5.38%;
+  top: 0;
+  right: 94.62%;
+  bottom: 85.78%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupItem {
+  height: 5.43%;
+  width: 10.89%;
+  top: 87.43%;
+  right: 44.54%;
+  bottom: 7.14%;
+  left: 44.57%;
+}
+.ceo,
+.forMyReactContainer {
+  position: absolute;
+  width: 5.67%;
+  top: 92.86%;
+  left: 47.21%;
+  display: inline-block;
+}
+.forMyReactContainer {
+  height: 27.14%;
+  width: 95.37%;
+  top: 10%;
+  left: 4.63%;
+  color: var(--color-darkslategray-200);
+  text-align: center;
+}
+.groupInner {
+  border-radius: var(--br-54xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupInner,
+.rectangleWrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.groupParent,
+.groupWrapper {
+  position: absolute;
+  height: 34.29%;
+  width: 11.57%;
+  top: 46%;
+  right: 44.43%;
+  bottom: 19.71%;
+  left: 44%;
+}
+.groupParent {
+  height: 4.53%;
+  width: 73.54%;
+  top: 75%;
+  right: 13.82%;
+  bottom: 20.47%;
+  left: 12.64%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+  font-family: var(--font-nunito-sans);
+}

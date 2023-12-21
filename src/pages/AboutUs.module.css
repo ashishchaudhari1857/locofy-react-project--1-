@@ -1,0 +1,717 @@
+.weGrowBrands {
+  margin: 0;
+}
+.weGrowBrandsContainer {
+  position: absolute;
+  top: 8.47%;
+  left: 37.85%;
+  font-size: var(--font-size-17xl);
+  text-align: center;
+}
+.sinceItsInception {
+  position: absolute;
+  width: 78.96%;
+  top: 10.19%;
+  left: 10.56%;
+  color: var(--color-gray-200);
+  text-align: center;
+  display: inline-block;
+}
+.ourTechMind,
+.withTheHuge {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.withTheHuge {
+  width: 99.68%;
+  top: 50.98%;
+  left: 0.32%;
+}
+.ourTechMindOffersExpertCParent {
+  position: absolute;
+  height: 4.62%;
+  width: 42.78%;
+  top: 12.4%;
+  right: 6.67%;
+  bottom: 82.98%;
+  left: 50.56%;
+  color: var(--color-gray-200);
+}
+.aboutUsChild,
+.aboutUsInner,
+.aboutUsItem {
+  position: absolute;
+  height: 8.19%;
+  width: 100.14%;
+  top: 18.77%;
+  right: -0.14%;
+  bottom: 73.05%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.aboutUsInner,
+.aboutUsItem {
+  height: 2.15%;
+  width: 64.75%;
+  top: 24.82%;
+  right: 28.24%;
+  bottom: 73.03%;
+  left: 7.01%;
+}
+.aboutUsInner {
+  height: 4.41%;
+  width: 38.81%;
+  top: 19.99%;
+  right: 7.72%;
+  bottom: 75.6%;
+  left: 53.47%;
+}
+.ourMission,
+.weBelieveIn {
+  position: absolute;
+  left: 7.15%;
+  display: inline-block;
+}
+.ourMission {
+  height: 0.7%;
+  width: 14.1%;
+  top: 20.94%;
+  font-size: var(--font-size-17xl);
+}
+.weBelieveIn {
+  height: 1.24%;
+  width: 40.76%;
+  top: 22.19%;
+  color: var(--color-gray-200);
+}
+.ourVision,
+.weBelieveIn1 {
+  position: absolute;
+  width: 44.15%;
+  top: 0;
+  left: 0.44%;
+  display: inline-block;
+}
+.weBelieveIn1 {
+  width: 100%;
+  top: 39.5%;
+  left: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.groupDiv,
+.ourVisionParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.groupDiv {
+  height: 2.67%;
+  width: 38.23%;
+  top: 29.76%;
+  right: 10.69%;
+  bottom: 67.57%;
+  left: 51.09%;
+  font-size: var(--font-size-17xl);
+}
+.groupIcon,
+.rectangleIcon {
+  position: absolute;
+  height: 2.07%;
+  width: 54.37%;
+  top: 34.07%;
+  right: 2.85%;
+  bottom: 63.87%;
+  left: 42.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangleIcon {
+  height: 12.34%;
+  width: 100.49%;
+  top: 36.55%;
+  right: -0.14%;
+  bottom: 51.11%;
+  left: -0.35%;
+}
+.whatWeDo {
+  position: absolute;
+  top: 49.5%;
+  left: 20.83%;
+  font-size: 118.99px;
+  font-weight: 900;
+  color: var(--color-whitesmoke);
+  -webkit-text-stroke: 86px #f1f2f2;
+}
+.whatDoWe {
+  position: absolute;
+  top: 50.29%;
+  left: 29.38%;
+  font-size: var(--font-size-17xl);
+}
+.toConnectSmart {
+  position: absolute;
+  width: 57.36%;
+  top: 51.27%;
+  left: 21.32%;
+  font-size: 16px;
+  color: var(--color-gray-200);
+  white-space: pre-wrap;
+  text-align: center;
+  display: inline-block;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.getInTouch {
+  position: absolute;
+  top: 32.68%;
+  left: 24.89%;
+  transform: rotate(-0.31deg);
+  transform-origin: 0 0;
+}
+.vectorParent {
+  position: absolute;
+  height: 0.72%;
+  width: 13.62%;
+  top: 52.51%;
+  right: 43.19%;
+  bottom: 46.77%;
+  left: 43.19%;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.initiateAMeeting,
+.letsHaveAContainer {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.letsHaveAContainer {
+  width: 62.38%;
+  top: 0;
+  font-weight: 600;
+}
+.initiateAMeeting {
+  width: 100%;
+  top: 61.24%;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.letsHaveACupOfCoffeeParent {
+  position: absolute;
+  height: 1.67%;
+  width: 29.72%;
+  top: 54.66%;
+  right: 17.29%;
+  bottom: 43.68%;
+  left: 52.99%;
+  font-size: var(--font-size-5xl);
+}
+.planForThe,
+.weAnalyzeDesign {
+  position: absolute;
+  text-align: right;
+  display: inline-block;
+}
+.planForThe {
+  width: 13.75%;
+  top: 57.84%;
+  left: 33.47%;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.weAnalyzeDesign {
+  width: 22.99%;
+  top: 58.73%;
+  left: 24.24%;
+  color: var(--color-gray-200);
+}
+.aboutUsChild1,
+.aboutUsChild2,
+.aboutUsChild3,
+.aboutUsChild4,
+.aboutUsChild5,
+.lineIcon {
+  position: absolute;
+  height: 8.92%;
+  width: 0.14%;
+  top: 54.92%;
+  right: 49.86%;
+  bottom: 36.17%;
+  left: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.aboutUsChild1,
+.aboutUsChild2,
+.aboutUsChild3,
+.aboutUsChild4,
+.aboutUsChild5 {
+  height: 0.39%;
+  width: 2.08%;
+  top: 54.72%;
+  right: 48.96%;
+  bottom: 44.89%;
+  left: 48.96%;
+}
+.aboutUsChild2,
+.aboutUsChild3,
+.aboutUsChild4,
+.aboutUsChild5 {
+  top: 63.64%;
+  bottom: 35.97%;
+}
+.aboutUsChild3,
+.aboutUsChild4,
+.aboutUsChild5 {
+  top: 61%;
+  bottom: 38.61%;
+}
+.aboutUsChild4,
+.aboutUsChild5 {
+  top: 57.84%;
+  bottom: 41.77%;
+}
+.aboutUsChild5 {
+  height: 0.95%;
+  width: 8.15%;
+  top: 54.44%;
+  right: 52.79%;
+  bottom: 44.61%;
+  left: 39.06%;
+  opacity: 0.5;
+}
+.forUsThe,
+.qualitySolutions {
+  position: absolute;
+  left: 52.99%;
+}
+.qualitySolutions {
+  top: 60.95%;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.forUsThe {
+  width: 26.25%;
+  top: 61.43%;
+  color: var(--color-gray-200);
+  display: inline-block;
+}
+.aboutUsChild6,
+.aboutUsChild7 {
+  position: absolute;
+  height: 0.95%;
+  width: 7.95%;
+  top: 60.72%;
+  right: 52.99%;
+  bottom: 38.33%;
+  left: 39.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.aboutUsChild7 {
+  width: 7.97%;
+  top: 57.56%;
+  right: 39.04%;
+  bottom: 41.49%;
+  left: 52.99%;
+}
+.weDiscover,
+.yourDreamourGoal {
+  position: absolute;
+  display: inline-block;
+}
+.yourDreamourGoal {
+  width: 72.99%;
+  top: 0;
+  left: 27.01%;
+  font-weight: 600;
+}
+.weDiscover {
+  width: 100%;
+  top: 58.33%;
+  left: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.yourDreamourGoalParent {
+  position: absolute;
+  height: 1.55%;
+  width: 21.6%;
+  top: 63.64%;
+  right: 52.78%;
+  bottom: 34.8%;
+  left: 25.63%;
+  text-align: right;
+  font-size: var(--font-size-5xl);
+}
+.aboutUsChild8,
+.aboutUsChild9,
+.groupItem {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.aboutUsChild8 {
+  height: 0.95%;
+  width: 8.17%;
+  top: 63.36%;
+  right: 38.83%;
+  bottom: 35.69%;
+  left: 53%;
+  opacity: 0.5;
+}
+.aboutUsChild9,
+.groupItem {
+  height: 5.42%;
+  width: 100.14%;
+  top: 66.88%;
+  right: 0.63%;
+  bottom: 27.7%;
+  left: -0.76%;
+}
+.groupItem {
+  height: 46.56%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 53.44%;
+  left: 0;
+}
+.div,
+.projects {
+  position: absolute;
+  height: 30.27%;
+  width: 87.01%;
+  top: 61.06%;
+  left: 6.8%;
+  display: inline-block;
+}
+.projects {
+  height: 9.87%;
+  width: 78.01%;
+  top: 90.13%;
+  left: 5.43%;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray-200);
+}
+.groupContainer,
+.groupInner {
+  position: absolute;
+  height: 87.37%;
+  width: 9.85%;
+  top: 12.27%;
+  right: 90.15%;
+  bottom: 0.36%;
+  left: 0;
+}
+.groupInner {
+  height: 44%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.clients,
+.div1 {
+  position: absolute;
+  height: 31.73%;
+  width: 70.04%;
+  top: 59.19%;
+  left: 15.22%;
+  display: inline-block;
+}
+.clients {
+  height: 10.34%;
+  width: 58.2%;
+  top: 89.66%;
+  left: 19.15%;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray-200);
+}
+.groupChild1,
+.groupParent1 {
+  position: absolute;
+  height: 83.37%;
+  width: 12.23%;
+  top: 16.27%;
+  right: 59.79%;
+  bottom: 0.36%;
+  left: 27.98%;
+}
+.groupChild1 {
+  height: 52.95%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 47.05%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.coffee,
+.div2 {
+  position: absolute;
+  height: 26.45%;
+  width: 96.66%;
+  top: 65.62%;
+  left: 2%;
+  display: inline-block;
+}
+.coffee {
+  height: 8.98%;
+  width: 65%;
+  top: 91.02%;
+  left: 16.14%;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray-200);
+}
+.groupChild2,
+.groupParent2 {
+  position: absolute;
+  height: 100%;
+  width: 11.82%;
+  top: 0;
+  right: 30.83%;
+  bottom: 0;
+  left: 57.35%;
+}
+.groupChild2 {
+  height: 46.57%;
+  width: 80.62%;
+  right: 19.38%;
+  bottom: 53.43%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div3,
+.retentionRate {
+  position: absolute;
+  height: 30.27%;
+  width: 74.16%;
+  top: 61.06%;
+  left: 7.55%;
+  display: inline-block;
+}
+.retentionRate {
+  height: 9.87%;
+  width: 100%;
+  top: 90.13%;
+  left: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray-200);
+}
+.groupParent,
+.groupParent3 {
+  position: absolute;
+  height: 87.38%;
+  width: 13.67%;
+  top: 12.26%;
+  right: 0;
+  bottom: 0.36%;
+  left: 86.33%;
+}
+.groupParent {
+  height: 3.6%;
+  width: 74.15%;
+  top: 67.81%;
+  right: 12.43%;
+  bottom: 28.6%;
+  left: 13.42%;
+  font-size: var(--font-size-29xl);
+}
+.testimonails {
+  position: absolute;
+  top: 72.9%;
+  left: 18.33%;
+  font-size: 118.99px;
+  font-weight: 900;
+  color: var(--color-whitesmoke);
+}
+.fewWordsFrom {
+  position: absolute;
+  top: 73.7%;
+  left: 32.64%;
+  font-size: var(--font-size-17xl);
+}
+.someValuableWords {
+  position: absolute;
+  top: 74.46%;
+  left: 30.76%;
+  color: var(--color-gray-200);
+}
+.aboutUsChild10 {
+  position: absolute;
+  height: 0.23%;
+  width: 3.33%;
+  top: 80.12%;
+  right: 48.34%;
+  bottom: 19.65%;
+  left: 48.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.aboutUsChild11,
+.aboutUsChild12,
+.groupChild3,
+.groupChild4,
+.groupChild5,
+.groupChild6 {
+  position: absolute;
+  height: 0.4%;
+  width: 63.98%;
+  top: 77.66%;
+  right: 14.43%;
+  bottom: 21.94%;
+  left: 21.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.aboutUsChild12,
+.groupChild3,
+.groupChild4,
+.groupChild5,
+.groupChild6 {
+  height: 3.96%;
+  width: 101.67%;
+  top: 81.05%;
+  right: -0.83%;
+  bottom: 14.99%;
+  left: -0.83%;
+}
+.groupChild3,
+.groupChild4,
+.groupChild5,
+.groupChild6 {
+  height: 72%;
+  width: 26.33%;
+  top: 14%;
+  right: 51.54%;
+  bottom: 14%;
+  left: 22.13%;
+}
+.groupChild4,
+.groupChild5,
+.groupChild6 {
+  height: 100%;
+  width: 13.17%;
+  top: 0;
+  right: 86.83%;
+  bottom: 0;
+  left: 0;
+}
+.groupChild5,
+.groupChild6 {
+  right: 25.77%;
+  left: 61.06%;
+}
+.groupChild6 {
+  right: 0;
+  left: 86.83%;
+}
+.rectangleParent {
+  position: absolute;
+  height: 1.94%;
+  width: 79.12%;
+  top: 82.06%;
+  right: 11.02%;
+  bottom: 16%;
+  left: 9.86%;
+}
+.aboutUsChild13,
+.aboutUsChild14,
+.icon,
+.teamCuate1Icon {
+  position: absolute;
+  height: 0.52%;
+  width: 2.8%;
+  top: 98.53%;
+  right: 2.49%;
+  bottom: 0.95%;
+  left: 94.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.aboutUsChild14,
+.icon,
+.teamCuate1Icon {
+  height: 5.9%;
+  width: 44.79%;
+  top: 28.41%;
+  right: 50.63%;
+  bottom: 65.69%;
+  left: 4.58%;
+}
+.aboutUsChild14,
+.teamCuate1Icon {
+  height: 4.6%;
+  width: 29.99%;
+  top: 95.4%;
+  right: 62.23%;
+  bottom: 0;
+  left: 7.78%;
+}
+.teamCuate1Icon {
+  height: 6.83%;
+  width: 52.36%;
+  top: 1.01%;
+  right: 0.97%;
+  bottom: 92.16%;
+  left: 46.67%;
+}
+.aboutUs {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 7732px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+  font-family: var(--font-nunito-sans);
+}

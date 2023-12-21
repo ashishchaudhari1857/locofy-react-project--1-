@@ -1,0 +1,220 @@
+.groupChild {
+  height: 100%;
+  width: 93.82%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 6.18%;
+  opacity: 0.8;
+}
+.groupChild,
+.groupChild1,
+.groupIcon,
+.groupInner,
+.groupItem,
+.path4Icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupItem {
+  height: 99.5%;
+  width: 74.27%;
+  top: 0;
+  right: 0;
+  bottom: 0.5%;
+  left: 25.73%;
+  opacity: 0.5;
+}
+.groupChild1,
+.groupIcon,
+.groupInner,
+.path4Icon {
+  height: 95.24%;
+  width: 2.95%;
+  top: 4.76%;
+  right: 8.57%;
+  bottom: 0;
+  left: 88.48%;
+}
+.groupChild1,
+.groupIcon,
+.groupInner {
+  height: 17.06%;
+  width: 86.51%;
+  top: 0;
+  right: 0;
+  bottom: 82.94%;
+  left: 13.49%;
+}
+.groupChild1,
+.groupIcon {
+  width: 100%;
+  top: 41.46%;
+  bottom: 41.47%;
+  left: 0;
+}
+.groupChild1 {
+  width: 67.63%;
+  top: 82.94%;
+  bottom: 0;
+  left: 32.37%;
+}
+.groupContainer {
+  position: absolute;
+  height: 95.24%;
+  width: 2.95%;
+  top: 0;
+  right: 0;
+  bottom: 4.76%;
+  left: 97.05%;
+}
+.home,
+.whatWeDo {
+  position: absolute;
+  top: 4.76%;
+  left: 0;
+}
+.whatWeDo {
+  left: 12.36%;
+}
+.company,
+.hireExperts,
+.sayHello {
+  position: absolute;
+  top: 4.76%;
+  left: 31.8%;
+}
+.company,
+.sayHello {
+  left: 51.59%;
+}
+.sayHello {
+  left: 67.75%;
+}
+.path5Icon,
+.path6Icon {
+  position: absolute;
+  height: 24.48%;
+  width: 1.35%;
+  top: 33.33%;
+  right: 51.83%;
+  bottom: 42.19%;
+  left: 46.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.path6Icon {
+  height: 23.81%;
+  width: 1.33%;
+  right: 71.34%;
+  bottom: 42.86%;
+  left: 27.33%;
+}
+.path4Parent {
+  position: absolute;
+  height: 46.67%;
+  width: 58.26%;
+  top: 31.11%;
+  right: 0;
+  bottom: 22.22%;
+  left: 41.74%;
+}
+.groupChild2,
+.image3Icon {
+  position: absolute;
+  height: 100%;
+  width: 49.12%;
+  top: 0;
+  right: 50.88%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image3Icon {
+  height: 82.22%;
+  width: 46.49%;
+  top: 17.78%;
+  right: 0;
+  left: 53.51%;
+}
+.groupDiv,
+.groupParent {
+  position: absolute;
+  height: 100%;
+  width: 9.81%;
+  top: 0;
+  right: 90.19%;
+  bottom: 0;
+  left: 0;
+}
+.groupParent {
+  height: 7.44%;
+  width: 75.6%;
+  top: 6.61%;
+  right: 9.69%;
+  bottom: 85.95%;
+  left: 14.7%;
+}
+.aboutUs,
+.loremIpsumIs {
+  position: absolute;
+  left: 13.92%;
+}
+.loremIpsumIs {
+  width: 28.11%;
+  top: 42.98%;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+}
+.aboutUs {
+  top: 26.28%;
+  font-size: var(--font-size-45xl);
+  font-weight: 900;
+  background: linear-gradient(90deg, #ef8431, #e71a86);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.ellipseDiv,
+.groupChild3 {
+  position: absolute;
+  height: 47.11%;
+  width: 18.22%;
+  top: 36.22%;
+  right: 29.75%;
+  bottom: 16.68%;
+  left: 52.03%;
+  border-radius: 50%;
+  background: linear-gradient(90deg, #ef8431 21.13%, #e71a86 78.94%);
+  transform: rotate(103deg);
+  transform-origin: 0 0;
+  opacity: 0.4;
+}
+.groupChild3 {
+  height: 31.38%;
+  width: 12.72%;
+  top: 66.73%;
+  right: 72.38%;
+  bottom: 1.89%;
+  left: 14.9%;
+}
+.vectorParent {
+  position: absolute;
+  height: 7.82%;
+  width: 106.74%;
+  top: 0;
+  right: 0;
+  bottom: 92.18%;
+  left: -6.74%;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-nunito-sans);
+}

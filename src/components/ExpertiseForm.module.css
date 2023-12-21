@@ -1,0 +1,239 @@
+.ourAreaExpertise {
+  position: absolute;
+  height: 6.59%;
+  width: 25.5%;
+  top: 0;
+  left: 38.07%;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupItem {
+  height: 83.12%;
+  width: 86.33%;
+  top: 8.43%;
+  right: 6.83%;
+  bottom: 8.44%;
+  left: 6.83%;
+}
+.rectangleParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.webDevelopment {
+  position: absolute;
+  height: 9.25%;
+  width: 45.67%;
+  top: 65.2%;
+  left: 26.94%;
+  display: inline-block;
+}
+.groupInner {
+  position: absolute;
+  height: 28.02%;
+  width: 22.72%;
+  top: 23.59%;
+  right: 38.64%;
+  bottom: 48.39%;
+  left: 38.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupParent {
+  position: absolute;
+  height: 48.03%;
+  width: 36.68%;
+  top: 13.58%;
+  right: 63.32%;
+  bottom: 38.39%;
+  left: 0;
+}
+.mobileApplication {
+  margin: 0;
+}
+.mobileApplicationDevelopmentContainer {
+  position: absolute;
+  height: 29.78%;
+  width: 91.64%;
+  top: 63.51%;
+  left: 4.11%;
+  display: inline-block;
+}
+.groupIcon {
+  position: absolute;
+  height: 33.71%;
+  width: 17.22%;
+  top: 18.23%;
+  right: 41.39%;
+  bottom: 48.06%;
+  left: 41.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vectorParent {
+  position: absolute;
+  height: 39.92%;
+  width: 31.66%;
+  top: 17.64%;
+  right: 0;
+  bottom: 42.44%;
+  left: 68.34%;
+  text-align: center;
+}
+.ecommerceWebDevelopment {
+  position: absolute;
+  height: 29.78%;
+  width: 70.18%;
+  top: 63.51%;
+  left: 16.17%;
+  display: inline-block;
+}
+.groupChild2 {
+  position: absolute;
+  height: 28.43%;
+  width: 26.32%;
+  top: 20.87%;
+  right: 36.84%;
+  bottom: 50.7%;
+  left: 36.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vectorGroup {
+  position: absolute;
+  height: 39.92%;
+  width: 31.66%;
+  top: 17.64%;
+  right: 32.91%;
+  bottom: 42.44%;
+  left: 35.42%;
+  text-align: center;
+}
+.uiuxDesigning {
+  position: absolute;
+  height: 11.12%;
+  width: 46.84%;
+  top: 68.29%;
+  left: 26.28%;
+  display: inline-block;
+}
+.groupChild4 {
+  position: absolute;
+  height: 33.71%;
+  width: 26.32%;
+  top: 20.87%;
+  right: 36.84%;
+  bottom: 45.42%;
+  left: 36.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vectorContainer {
+  position: absolute;
+  height: 39.92%;
+  width: 31.66%;
+  top: 60.08%;
+  right: 65.83%;
+  bottom: 0;
+  left: 2.51%;
+}
+.digitalMarketing {
+  position: absolute;
+  height: 11.12%;
+  width: 48.16%;
+  top: 68.29%;
+  left: 25.49%;
+  display: inline-block;
+}
+.groupChild6 {
+  position: absolute;
+  height: 31.9%;
+  width: 26.32%;
+  top: 21.77%;
+  right: 36.84%;
+  bottom: 46.33%;
+  left: 36.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupDiv {
+  position: absolute;
+  height: 39.92%;
+  width: 31.66%;
+  top: 60.08%;
+  right: 32.91%;
+  bottom: 0;
+  left: 35.42%;
+}
+.websiteAppContainer {
+  position: absolute;
+  height: 20.72%;
+  width: 80.02%;
+  top: 68.23%;
+  left: 10.17%;
+  display: inline-block;
+}
+.groupChild8 {
+  position: absolute;
+  height: 33.71%;
+  width: 26.31%;
+  top: 20.87%;
+  right: 36.84%;
+  bottom: 45.42%;
+  left: 36.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vectorParent1 {
+  position: absolute;
+  height: 39.92%;
+  width: 31.66%;
+  top: 60.08%;
+  right: 0;
+  bottom: 0;
+  left: 68.34%;
+  text-align: center;
+}
+.ourAreaExpertiseParent {
+  position: absolute;
+  height: 10.01%;
+  width: 86.88%;
+  top: 37.6%;
+  right: 8.55%;
+  bottom: 52.39%;
+  left: 4.57%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-500);
+  font-family: var(--font-nunito-sans);
+}

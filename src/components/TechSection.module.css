@@ -1,0 +1,346 @@
+.groupChild,
+.groupItem,
+.path304Icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.groupItem,
+.path304Icon {
+  height: 71.96%;
+  width: 14.92%;
+  top: 14.12%;
+  right: 4.18%;
+  bottom: 13.92%;
+  left: 80.9%;
+  object-fit: cover;
+}
+.path304Icon {
+  height: 25.17%;
+  width: 7.43%;
+  top: 37.53%;
+  right: 7.92%;
+  bottom: 37.3%;
+  left: 84.64%;
+}
+.enterYourEmail {
+  position: absolute;
+  width: 38.15%;
+  top: 32.45%;
+  left: 8.88%;
+  display: inline-block;
+}
+.vectorParent {
+  position: absolute;
+  height: 11.11%;
+  width: 19.76%;
+  top: 24.01%;
+  right: 7.21%;
+  bottom: 64.89%;
+  left: 73.03%;
+  color: var(--color-white);
+}
+.path305Icon {
+  position: absolute;
+  height: 65.01%;
+  width: 100%;
+  top: 34.99%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.41;
+}
+.allRightReservedContainer {
+  position: absolute;
+  width: 93.49%;
+  top: 0;
+  left: 6.51%;
+  display: inline-block;
+}
+.groupInner {
+  position: absolute;
+  height: 76.94%;
+  width: 5.43%;
+  top: 9.66%;
+  right: 94.57%;
+  bottom: 13.4%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.allRightReservedByTechEruParent {
+  position: absolute;
+  height: 3.97%;
+  width: 20.75%;
+  top: 90.51%;
+  right: 7.49%;
+  bottom: 5.52%;
+  left: 71.76%;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.erudite,
+.tech {
+  position: absolute;
+  width: 100%;
+  top: 54.74%;
+  left: 0;
+  display: inline-block;
+}
+.tech {
+  top: 0;
+  font-size: 18.88px;
+  color: var(--color-gray-400);
+}
+.eruditeParent {
+  position: absolute;
+  height: 91.34%;
+  width: 49.26%;
+  top: 8.66%;
+  right: 0;
+  bottom: 0;
+  left: 50.74%;
+}
+.groupDiv,
+.groupIcon {
+  position: absolute;
+  top: 0;
+}
+.groupIcon {
+  height: 88.95%;
+  width: 45.83%;
+  right: 54.17%;
+  bottom: 11.05%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupDiv {
+  height: 23.27%;
+  width: 42.67%;
+  right: 57.14%;
+  bottom: 76.73%;
+  left: 0.19%;
+}
+.groupChild1,
+.groupChild2,
+.groupChild3 {
+  position: absolute;
+  height: 99.99%;
+  width: 7.94%;
+  top: 0;
+  right: 92.06%;
+  bottom: 0.01%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupChild2,
+.groupChild3 {
+  height: 99.89%;
+  width: 21.02%;
+  top: 0.11%;
+  right: 42.79%;
+  bottom: 0;
+  left: 36.2%;
+}
+.groupChild3 {
+  height: 99.9%;
+  width: 17.88%;
+  top: 0.09%;
+  right: 0;
+  bottom: 0.01%;
+  left: 82.12%;
+}
+.groupParent1 {
+  position: absolute;
+  height: 9.63%;
+  width: 39.39%;
+  top: 90.37%;
+  right: 60.42%;
+  bottom: 0;
+  left: 0.19%;
+}
+.loremIpsumIs {
+  position: absolute;
+  width: 100%;
+  top: 30.35%;
+  left: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+  display: inline-block;
+}
+.groupContainer {
+  position: absolute;
+  height: 33%;
+  width: 17.42%;
+  top: 0;
+  right: 75.4%;
+  bottom: 67%;
+  left: 7.19%;
+  font-size: var(--font-size-xs-9);
+  color: var(--color-gray-300);
+}
+.cmsCommerce,
+.quickLinks,
+.webDevelopment {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.quickLinks {
+  width: 61.4%;
+  top: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+}
+.cmsCommerce,
+.webDevelopment {
+  width: 77.78%;
+  top: 25.68%;
+}
+.cmsCommerce {
+  width: 74.85%;
+  top: 41.87%;
+}
+.digitalMarketing,
+.mobileAppDeveloment,
+.uiuxDesign {
+  position: absolute;
+  width: 100%;
+  top: 58.05%;
+  left: 0;
+  display: inline-block;
+}
+.digitalMarketing,
+.uiuxDesign {
+  width: 72.51%;
+  top: 74.23%;
+}
+.uiuxDesign {
+  width: 54.97%;
+  top: 90.41%;
+}
+.quickLinksParent {
+  position: absolute;
+  height: 35.17%;
+  width: 12.52%;
+  top: 0.87%;
+  right: 58.32%;
+  bottom: 63.96%;
+  left: 29.16%;
+  font-family: var(--font-montserrat);
+}
+.comapny,
+.privacyPolicy {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.comapny {
+  width: 67.69%;
+  top: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+}
+.privacyPolicy {
+  width: 73.85%;
+  top: 25.68%;
+}
+.contactUs,
+.knowledgeBase,
+.legalInfo,
+.tearmsOfServices {
+  position: absolute;
+  width: 100%;
+  top: 41.87%;
+  left: 0;
+  display: inline-block;
+}
+.contactUs,
+.knowledgeBase,
+.legalInfo {
+  width: 53.08%;
+  top: 58.05%;
+}
+.contactUs,
+.knowledgeBase {
+  width: 90.77%;
+  top: 74.23%;
+}
+.contactUs {
+  width: 58.46%;
+  top: 90.41%;
+}
+.comapnyParent {
+  position: absolute;
+  height: 35.17%;
+  width: 9.52%;
+  top: 0.87%;
+  right: 39.39%;
+  bottom: 63.96%;
+  left: 51.1%;
+  font-family: var(--font-montserrat);
+}
+.loremIpsumIs1 {
+  position: absolute;
+  height: 3.37%;
+  width: 19.69%;
+  top: 9.98%;
+  left: 73.06%;
+  display: inline-block;
+}
+.subscribeOurNewsletter {
+  position: absolute;
+  width: 16.91%;
+  top: 0.87%;
+  left: 73.04%;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-montserrat);
+  color: var(--color-gray-500);
+  display: inline-block;
+}
+.rectangleIcon {
+  position: absolute;
+  height: 62.27%;
+  width: 27.78%;
+  top: 37.73%;
+  right: 64.97%;
+  bottom: 0;
+  left: 7.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupParent {
+  position: absolute;
+  height: 6.52%;
+  width: 100.49%;
+  top: 93.48%;
+  right: -0.49%;
+  bottom: 0.01%;
+  left: 0;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+  font-family: var(--font-nunito-sans);
+}

@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,600;0,700;0,900;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-nunito-sans: "Nunito Sans";
+  --font-roboto: Roboto;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-45xl: 64px;
+  --font-size-lg: 18px;
+  --font-size-sm: 14px;
+  --font-size-2xl-1: 21.1px;
+  --font-size-13xl: 32px;
+  --font-size-lg-9: 18.9px;
+  --font-size-xs-9: 11.9px;
+  --font-size-mini: 15px;
+  --font-size-17xl: 36px;
+  --font-size-100xl: 119px;
+  --font-size-29xl: 48px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslategray-100: #455a64;
+  --color-darkslategray-200: #414042;
+  --color-rosybrown: #b39999;
+  --color-darkgray: #979fa6;
+  --color-gray-100: #8d8d8d;
+  --color-gray-200: #878787;
+  --color-gray-300: #808285;
+  --color-gray-400: #212121;
+  --color-gray-500: #231f20;
+  --color-whitesmoke: #f1f2f2;
+
+  /* Border radiuses */
+  --br-54xl: 73px;
+}
